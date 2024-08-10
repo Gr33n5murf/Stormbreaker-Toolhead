@@ -1,0 +1,24 @@
+Parts for the core assembly:
+
+4 M3x40 for the general assembly
+4 M3x12 for the carriage
+2 M3x30 for attaching the belts
+2 M3x16 for the hotend fan
+6 M3x6 for the 5015 fans and ducts
+M3 heat inserts, quantity depending on options
+
+3010 axial fan for the hotend heatsink
+2 5015 radial fans for part cooling
+
+ø4xø2 ptfe tubing
+
+
+Cutter:
+No 4 cutter blade
+M3x12 BHCS
+M3x20
+2 M3x8
+2 M2x3,2 heat inserts
+
+
+additional hardware is necessary depending on options like ABL solution, endstops yes/no, what extruder, is a toolhead MCU used. With M3x6, M3x8, M3x12, M3x16, M3x20, M3x25 the options should be covered. You can either use SHCS or BHCS unless specified otherwise
