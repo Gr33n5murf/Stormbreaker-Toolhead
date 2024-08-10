@@ -1,0 +1,35 @@
+install all heat inserts
+  Carriage
+  5015 fans (pay attention to the orrientation!)
+  bed probe, if needed
+  extruder plate,  dont forget the M2 for cutter version
+  hotend mount for cutter version
+
+Drill out the M2 insert threads after installation, ideally while being assembled to ensure perfect alignment. A small chamfer is recommended, use a drill >2mm for that. The cutter blade needs its edge sanded to a less sharp angle, 30° total is a good idea, otherwise you get edge rolling. 
+The blade needs to be shortened, test fit as the required length is dependent on parts tolerance. Glue it into the knife holde, use the m3x12 to attach it to the lever, screw goes in from the back of the toolhead.
+
+Recommended order of assembly:
+  insert belts into carriage
+  mount carriage to rail
+  finish sub assemblies (extruder with plate and bracing, hotend)
+  insert m3x40 through the lower holes in the ducts thorugh the hotend mount into the carriage
+  Extruder sub assembly
+
+  Ateention, Beacon mount must be installed as the last sub assembly!
+
+wiring for the cutter versions is meant to be routed on the right hand side of the toolhead, non cutter version can be routed both ways
+
+Further information:
+
+Sherpa micro needs altered parts, the core housing and the motor part. Filament detection is avalable for the Sherpa micro, at the gear (6mm collet) and above the gears (5 and 6mm collet).
+Sherpa mini is not compatible with cutter
+Chube is not compatible with cutter
+
+parts may need supports and arent oriented. majority of parts dont need supports (all probe options for example) and if you need supports, they are easy to remove.
+STL naming explained:
+NC means no cutter, if compatible
+S or short means for "short" hotends, like rapido HF, Dragon uhf without extrension, dragon SF/HF with volcano block, etc. Regular means Rapido UHF length
+
+HF and SF referres to the heatbreak used for the dragon hotends, the UHF would need the version for SF heatbreaks.
+
+For questions please go to the Monolith discord, you can find a Stormbreaker channel under "User projects"
