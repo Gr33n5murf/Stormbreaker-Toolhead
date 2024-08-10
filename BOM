@@ -19,6 +19,7 @@ M3x12 BHCS
 M3x20
 2 M3x8
 2 M2x3,2 heat inserts
+Extruder tension spring (6mm OD, 1mm wire, 20mm length)
 
 
 additional hardware is necessary depending on options like ABL solution, endstops yes/no, what extruder, is a toolhead MCU used. With M3x6, M3x8, M3x12, M3x16, M3x20, M3x25 the options should be covered. You can either use SHCS or BHCS unless specified otherwise
