@@ -12,10 +12,12 @@ Recommended order of assembly:
   insert belts into carriage
   mount carriage to rail
   finish sub assemblies (extruder with plate and bracing, hotend)
-  insert m3x40 through the lower holes in the ducts thorugh the hotend mount into the carriage
+	put in the cutter lever in the left duct,
+	install hotend mount and ducts using the lower screws
   Extruder sub assembly
+	probe mount last
 
-  Ateention, Beacon mount must be installed as the last sub assembly!
+  Attention, Beacon mount can only be installed after belts have been attached! 
 
 wiring for the cutter versions is meant to be routed on the right hand side of the toolhead, non cutter version can be routed both ways
 
@@ -29,7 +31,18 @@ parts may need supports and arent oriented. majority of parts dont need supports
 STL naming explained:
 NC means no cutter, if compatible
 S or short means for "short" hotends, like rapido HF, Dragon uhf without extrension, dragon SF/HF with volcano block, etc. Regular means Rapido UHF length
+Trident needs the stepper spacers for clearance of the leadscrews, 7mm for long hotends, 15mm for short ones. 
+You can use 6mm and 9mm belts, but are limited to gt2 belts, gt3 will not fit. With 9mm gt3 you also really should use a metal carriage, im honestly not sure if the plastic will hold up long term anyway.
+
+Tips for getting in the belts:
+Make sure the bridging is clean, use a small flathead screwdriver or scalpel to clean up if necessary. 
+Insert at a slight angle. 
+Use pliers for initial installation, afterwards it should get easier as the belt settles in. 
+Most extruder bracings/ebb mounts allow you to use M3x35 screws as belt fixation instead of m3x30 for additional reinforcement of the extruder 
 
 HF and SF referres to the heatbreak used for the dragon hotends, the UHF would need the version for SF heatbreaks.
 
 For questions please go to the Monolith discord, you can find a Stormbreaker channel under "User projects"
+
+Orbiter bolt pattern will not be supported as i dont like the extruders print quality 
+Lgx lite pro also fits
